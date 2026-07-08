@@ -8,7 +8,6 @@ npm-debug.log
 *.sublime-project
 *.sublime-workspace
 *.log
-build
 dist
 shrinkwrap.yaml
 test-helpers/tmp
